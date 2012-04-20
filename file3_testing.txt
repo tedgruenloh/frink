@@ -1,4 +1,4 @@
 A third file, in the testing branch.
 
-No, actually, it's in the newbranch branch.
+Edit from NEWBRANCH
 
