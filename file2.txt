@@ -1,1 +1,2 @@
-This is another really cool file.
+This is another really cool file. That I'm changing in newbranch.
+
