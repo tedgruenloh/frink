@@ -1,4 +1,3 @@
 A third file, in the testing branch.
 
-Edit from NEWBRANCH
-
+Editing from McBain on 5/21.
