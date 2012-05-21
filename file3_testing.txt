@@ -3,3 +3,5 @@ A third file, in the testing branch.
 Editing from McBain on 5/21. Again.
 
 Testing again.  I'm going to commit this in newbranch, and push from Master to see what happens.
+
+Editing from Github in parallel with master.
